@@ -1,0 +1,18 @@
+/* File: css/style.css */
+
+body {
+    font-family: 'Cardo', 'New Times Roman';
+    font-size: 18px;
+    color: #BA6B1D;
+    line-height: 1.5;
+}
+
+a {
+    text-decoration: none;
+    color: #BA6B1D;
+}
+
+ul {
+    list-style-type: square;
+}
+
