@@ -2,7 +2,6 @@
 
 body {
     font-family: 'Cardo', 'New Times Roman';
-    font-size: 18px;
     color: #BA6B1D;
     line-height: 1.5;
 }
@@ -107,7 +106,7 @@ img {
 }
 
 .text-mid {
-    font-size: 1.6rem;
+    font-size: 1.65rem;
     margin: -20px 0px 0px 0px;
 }
 
